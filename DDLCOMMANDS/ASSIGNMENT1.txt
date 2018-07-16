@@ -1,0 +1,1 @@
+create table assignment1(assignname varchar2(30),assigndate varchar2(30),status varchar2(30),id varchar2(30),aid integer(30));

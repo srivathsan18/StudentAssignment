@@ -1,0 +1,1 @@
+create table student1(email varchar2(30),password varchar2(30),name varchar2(30),id varchar2(30));
